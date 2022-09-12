@@ -8,7 +8,9 @@ root directory
 	├── Main.py                # main function to train a model
 	├── utils.py               # helper functions
 	├── Wiki_Dataset.py	   # customized dataset
-	└── inferrence.py          # predict with one image
+	├── inferrence.py          # predict with one image
+	└── COMP646_Final.pdf      # Project report
+	
 ```
 
 ### Pre_trained weight Link
